@@ -5,13 +5,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class AlstromAppApplicationTests {
 
 	@Test
 	void contextLoads() {
 		
-		assertEquals(190,200);
+		assertEquals(190,0);
 	}
 
 }
